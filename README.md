@@ -21,7 +21,9 @@ Escape The Speedy Wall For BRAINROTS! was a direct inspiration for the popular g
 > Please, join the game dirrectly to see all of the features. The whole game was scripted by me.
 
 <br>
+
 > Code snippet of Plot Handler Module
+
  <a href="https://pastebin.com/WULaji0v" target="_blank">
     <img src="https://img.shields.io/badge/Luau-View_Code_Snippet-royalblue?style=for-the-badge&logo=luau&logoColor=white">
   </a>
